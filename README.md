@@ -21,6 +21,7 @@ npx skills add skillscake/skillscake-skills                        # everything
 |---|-------|-----|
 | 001 | [`sre-postmortem`](skills/sre-postmortem) | [001-sre-postmortem](runs/001-sre-postmortem) |
 | 002 | [`bakery-orders`](skills/bakery-orders) | [002-bakery-orders](runs/002-bakery-orders) |
+| 003 | [`terraform-pr-review`](skills/terraform-pr-review) | [003-terraform-pr-review](runs/003-terraform-pr-review) |
 
 ## Layout
 

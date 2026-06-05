@@ -44,7 +44,7 @@ We don't accept skill PRs since each entry here is paired with a real run.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Apache 2.0. See [LICENSE](LICENSE).
 
 ---
 
